@@ -1,0 +1,43 @@
+# Build outputs / binaries
+output/
+*.out
+*.exe
+
+# macOS debug symbol bundles
+*.dSYM/
+
+# macOS junk
+.DS_Store
+
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Static libraries
+*.a
+*.lib
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# CMake build directories
+cmake-build-debug/
+cmake-build-release/
+
+# Dependencies
+.deps/
+vendor/
