@@ -1,5 +1,5 @@
 // Codeforces 133-A::
-// link of the problemset: https://codeforces.com/problemset/problem/1716/A
+// link of the problemset: https://codeforces.com/problemset/problem/133/A
 #include<iostream>
 #include<string>
 using namespace std;
