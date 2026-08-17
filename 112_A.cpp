@@ -2,6 +2,7 @@
 // Link: https://codeforces.com/problemset/problem/112/A
 
 #include<iostream>
+#include<algorithm>
 using namespace std;
 
 int main(){
